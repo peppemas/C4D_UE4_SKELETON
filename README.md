@@ -4,6 +4,6 @@ Python Script that build a UE4 Skeleton from scratch
 
 NOTE: 
 
-When import into UE4 select the standard mannequin as target skeleton and set rotation X: -90
+When import into UE4 select the standard mannequin as target skeleton. Import rotation X,Y,Z must be 0 
 
 Cheers
